@@ -1,0 +1,51 @@
+.figma{
+  display: inline-block;
+}
+.fezr{
+  padding: 0px;
+  border: 5px;
+  border-radius: 50%;
+ 
+}
+.sigma {
+  border: solid 0.155em rgb(196, 20, 184);
+  border-top-color: rgb(37, 247, 195);
+   width:5%;
+  padding: 0px;
+  background-color: chartreuse;
+}
+
+#a{
+  width: 20px;
+}
+.a{
+  border-collapse: collapse;
+}
+.birinchi{
+  border: solid 0.155em rgb(196, 20, 184);
+  border-top-color: rgb(37, 247, 195);
+   width:100%;
+  padding: 0px;
+  background-color: rgb(205, 208, 202);
+}
+.bir,li{line-height: 25px;
+  text-align: left;
+  list-style: none;
+}
+.ikki{
+  display:inline-block;
+  word-spacing: 120px;}
+  .uch,th{
+    border-collapse: collapse;
+    border: solid 0.115em rgb(196,20,184);
+    border-top-color:rgb(37, 247, 195);
+    width: 50%;
+    padding: 0px;
+    background-color: rgb(205, 208, 202);
+  }
+  #besh{
+    background-color: aqua; list-style: armenian;
+  }
+/* .masofa{
+  line-height: 50px;
+} */

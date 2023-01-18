@@ -1,0 +1,18 @@
+.bir{
+  border: 1px solid #080808;
+  background-color: aqua;
+}
+.ikki{ 
+  border: solid 0.155em rgb(196, 20, 184);
+  border-top-color: rgb(37, 247, 195);
+  background-color: chartreuse;
+}
+.uch{ empty-cells: initial;
+  background-color: bisque;
+  
+}
+.besh{
+  border: solid 0.155em rgb(196, 20, 184);
+  border-top-color: rgb(37, 247, 195);
+  background-color: chartreuse;
+}
